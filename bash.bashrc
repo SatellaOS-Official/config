@@ -65,4 +65,4 @@ export XDG_DATA_DIRS="/var/lib/flatpak/exports/share:~/.local/share/flatpak/expo
 export GTK_IM_MODULE=uim
 export QT_IM_MODULE=uim
 export XMODIFIERS="@im=uim"
-alias fastfetch='fastfetch --logo-color-1 magenta --logo /usr/share/SatellaOS/SatellaOS.asc'
+alias fastfetch='fastfetch --logo-color-1 magenta --logo /usr/share/SatellaOS/logo/SatellaOS.asc'
